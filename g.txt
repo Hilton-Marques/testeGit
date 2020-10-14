@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Esta linha foi modificada apenas no ramo Inicial 
 E agora whats happens?
+=======
+Novas alterações para o novo Ramo
+>>>>>>> novoRamo
